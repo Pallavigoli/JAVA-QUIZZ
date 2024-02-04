@@ -198,7 +198,7 @@ function Footer()
   return(
 <div className='foot'>
   Developed by Goli Pallavi &nbsp;
-  <a style={{display:'inline'}} href="https://github.com/Pallavigoli/JavaQuiz">View on GitHub</a>.
+  <a style={{display:'inline'}} href="https://github.com/Pallavigoli/JAVA-QUIZZ">View on GitHub</a>.
   <p>&copy; 2024 JavaQuiz. All rights reserved.</p>
 </div>
   );
