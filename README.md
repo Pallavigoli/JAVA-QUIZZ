@@ -1,3 +1,20 @@
+# Java Quiz App
+
+This is a simple Java quiz application developed using React.js.
+
+## Features
+- Multiple-choice questions
+- Score calculation
+
+## Usage
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run the app using `npm start`.
+
+## Author
+- [PALLAVI GOLI](https://github.com/Pallavigoli)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
